@@ -62,6 +62,13 @@ img {
   height: auto;
 }
 
+/* logo text part------- */
+.logo_txt{
+  font-weight: bold;
+  font-family: ;
+  font-size: xx-large;
+}
+
 .text-center {
   text-align: center;
 }
